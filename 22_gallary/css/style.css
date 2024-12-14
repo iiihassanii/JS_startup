@@ -1,0 +1,17 @@
+.photos , .main{
+        display: flex;
+        justify-content: center;
+}
+.photos img {
+        height: 100px;
+        width: 100px;
+}
+.photos img:hover {
+        height: 110px;
+        width: 110px;
+}
+
+.main img {
+        height: 412px;
+        width: 412px;
+}

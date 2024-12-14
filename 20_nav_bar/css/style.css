@@ -1,0 +1,28 @@
+*{
+        margin: 0%;
+}
+button {
+        all: unset;
+}
+.container {
+        padding-left: 8px;
+        padding-top: 8px;
+        width: 200px;
+        height:600px ;
+        background-color: #efefef;
+        font-size: large;
+}
+.container p{
+        margin-top: 8px;
+}
+.container p:hover {
+        background-color: #fff;
+        border-top-left-radius: 8px;
+        border-bottom-left-radius: 8px;
+        border-style: solid;
+        border-color: #fff;
+}
+
+.hide {
+        display: none;
+}
